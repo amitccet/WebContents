@@ -32,7 +32,7 @@
 		<meta-data>
 			<entry name="displayAsTooltip"><![CDATA[true]]></entry>
 			<entry name="required"><![CDATA[false]]></entry>
-			<entry name="instructions"><![CDATA[Provide max width of image element. Min limit advisable is 40]]></entry>
+			<entry name="instructions"><![CDATA[Provide max width of image element. Min limit advisable is 130]]></entry>
 			<entry name="label"><![CDATA[maxImageWidth]]></entry>
 			<entry name="predefinedValue"><![CDATA[600]]></entry>
 		</meta-data>
